@@ -137,4 +137,4 @@ async def ping(ctx):
 
 
 
-client.run("ODYwMTk5NjIzNTgxNzYxNTM2.YN3xUw.50mTVPvdhXTrqmtZOlvwoNiZ8KI")
+client.run("")
